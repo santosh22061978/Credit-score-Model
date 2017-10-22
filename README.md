@@ -1,4 +1,4 @@
-# Credit-score-Model
+# Capital at risk framework or credit risk model
 
 Built a credit risk model on dataset of Indian companies to predict the probability of default 
 using logistic regression framework. Information package in R was used to perform variable screening 
